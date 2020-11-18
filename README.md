@@ -1,1 +1,1 @@
-# erc-20
+# BTF token on ethereum
